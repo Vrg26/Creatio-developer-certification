@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Выпуск" />
+			<Item Name="Columns.InfAdUnit.Caption" Value="Рекламный блок" />
+			<Item Name="Columns.InfBroadcastDate.Caption" Value="Дата выпуска" />
+			<Item Name="Columns.InfBroadcastState.Caption" Value="Состояние выпуска" />
+			<Item Name="Columns.InfBroadcastTime.Caption" Value="Длительность выпуска, мин." />
+			<Item Name="Columns.InfCost.Caption" Value="Стоимость" />
+			<Item Name="Columns.InfHost.Caption" Value="Ведущий" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

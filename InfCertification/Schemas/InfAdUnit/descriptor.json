@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "6eeea694-fabd-4dd1-90c9-5bbf7f1cb68b",
+    "Name": "InfAdUnit",
+    "ModifiedOnUtc": "\/Date(1600606020000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Рекламные блоки"
+  }
+}

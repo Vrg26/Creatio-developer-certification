@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Автоматическое создание записей &quot;Выпуски&quot;" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.AdUnit.Caption" Value="Рекламный блок" />
+			<Item Name="Parameters.AdUnit.DisplayValue" Value="[#Справочник.Рекламные блоки.hello world#]" />
+		</Items>
+	</Group>
+</Resources>

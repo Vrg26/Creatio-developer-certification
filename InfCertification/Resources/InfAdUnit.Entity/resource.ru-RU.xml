@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Рекламные блоки" />
+			<Item Name="Columns.InfActive.Caption" Value="Активен" />
+			<Item Name="Columns.InfCode.Caption" Value="Код" />
+			<Item Name="Columns.InfName.Caption" Value="Название" />
+			<Item Name="Columns.InfNote.Caption" Value="Комментарий" />
+			<Item Name="Columns.InfNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.InfOwner.Caption" Value="Ответственный" />
+			<Item Name="Columns.InfPeriodicityAdUnit.Caption" Value="Периодичность" />
+		</Items>
+	</Group>
+</Resources>

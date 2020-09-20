@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "965dd43f-42e5-400f-9f70-bb7c32bcaaa7",
+    "Name": "InfAdUnitInFolder",
+    "ModifiedOnUtc": "\/Date(1600508058000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Рекламные блоки в группе",
+    "DependsOn": []
+  }
+}

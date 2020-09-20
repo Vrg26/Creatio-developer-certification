@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "004a410b-1dee-4075-b7f1-731cf6e10e2f",
+    "Name": "InfAdUnitInTag",
+    "ModifiedOnUtc": "\/Date(1600508059000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Рекламные блоки",
+    "DependsOn": []
+  }
+}

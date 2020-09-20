@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fced80a0-4fa3-4bd5-ab70-5b10f7b66481",
+    "Name": "InfBroadcastDetail",
+    "ModifiedOnUtc": "\/Date(1600514316000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Выпуски\"",
+    "DependsOn": []
+  }
+}

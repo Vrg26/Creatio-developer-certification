@@ -1,0 +1,9 @@
+= MetaData.Schema.UId "fced80a0-4fa3-4bd5-ab70-5b10f7b66481"
+= MetaData.Schema.A2 "InfBroadcastDetail"
+= MetaData.Schema.A5 "ac4f7f0f-d5d5-4e8b-997a-a2f7c46f033e"
+= MetaData.Schema.B2.["8f7c31a4-b656-47c9-a503-a72d0b3dd077"].A4 "fced80a0-4fa3-4bd5-ab70-5b10f7b66481"
+= MetaData.Schema.B6 "e6c87f05-025e-4ca8-95ce-02450f53ea37"
+= MetaData.Schema.B8 "7.16.2.1600"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

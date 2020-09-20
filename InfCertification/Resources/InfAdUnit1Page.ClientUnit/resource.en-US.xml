@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Рекламные блоки&quot;" />
+			<Item Name="LocalizableStrings.CreateBroadcast.Value" Value="Создать выпуски для рекламного блока" />
+			<Item Name="LocalizableStrings.MaxNumberActiveHourlyBroadcasts.Value" Value="Допускается активных ежечасных рекламных блоков не более " />
+			<Item Name="LocalizableStrings.Tab568a3efcTabLabelTabCaption.Value" Value="Выпуски" />
+		</Items>
+	</Group>
+</Resources>

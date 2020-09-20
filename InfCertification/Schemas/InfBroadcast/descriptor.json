@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9d6a3201-4cf1-407e-b47d-932791fe21a2",
+    "Name": "InfBroadcast",
+    "ModifiedOnUtc": "\/Date(1600605679000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Выпуск"
+  }
+}
