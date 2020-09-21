@@ -4,7 +4,7 @@ using Terrasoft.Core.Entities;
 
 namespace Terrasoft.Configuration
 {
-    public class BroadcastActions
+    public class InfBroadcastActions
     {
         private const string DAILY = "6E20A69E-C1D9-4892-B21E-2B180A6FA648";
         private const string WEEKLY = "88DCD7D1-2C11-410B-AAF2-11F471CDF65A";
@@ -55,7 +55,7 @@ namespace Terrasoft.Configuration
                     broadcastDate = broadcastDate.AddHours(1);
                     break;
                 default:
-                    throw new Exception("Переодичность не определена");
+                    throw new Exception("пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
             }
             return broadcastDate;
         }

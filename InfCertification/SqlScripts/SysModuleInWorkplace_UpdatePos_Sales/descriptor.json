@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "64b1d652-d3c1-4151-8192-68acfbc7df11",
+    "Name": "SysModuleInWorkplace_UpdatePos_Sales",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1600670372000)\/",
+    "DependsOn": []
+  }
+}

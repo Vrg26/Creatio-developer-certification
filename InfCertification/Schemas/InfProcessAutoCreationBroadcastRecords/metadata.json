@@ -131,7 +131,7 @@
           "BO3": true,
           "BP2": [],
           "CL2": "FFFFFFFF",
-          "CH1": "var userConnection = Get<UserConnection>(\"UserConnection\");\nvar adUnitId = Get<Guid>(\"AdUnit\");\nint numberRecords = 10;\nvar broadcastActions = new Certification.BroadcastActions();\n\nbroadcastActions.CreateBroadcasts(userConnection, adUnitId, numberRecords);\n\nreturn true;",
+          "CH1": "var userConnection = Get<UserConnection>(\"UserConnection\");\nvar adUnitId = Get<Guid>(\"AdUnit\");\nint numberRecords = 10;\nvar broadcastActions = new Certification.InfBroadcastActions();\n\nbroadcastActions.CreateBroadcasts(userConnection, adUnitId, numberRecords);\n\nreturn true;",
           "CH2": true
         },
         {
